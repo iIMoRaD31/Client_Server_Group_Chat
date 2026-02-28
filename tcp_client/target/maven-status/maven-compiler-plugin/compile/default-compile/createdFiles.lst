@@ -1,0 +1,4 @@
+com/client/config/ConfigLoader.class
+com/client/model/ChatClient.class
+com/client/TCPClient.class
+com/client/model/ClientEvents.class
